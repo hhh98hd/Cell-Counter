@@ -10,3 +10,18 @@ By Hoang Huy Hoang, UET-VNU
 - Qt and OpenCV
 
 **Images**
+
+- Just opened (no image loaded)
+
+![alt text](/images/app_1.png)
+
+- Image loaded
+
+![alt text](/images/app_2.png)
+
+- Result
+
+![alt text](/images/app_3.png)
+
+
+
