@@ -5,7 +5,7 @@ By Hoang Huy Hoang, UET-VNU
 - Watershed segmentation
 - Better performance than using OpenCV findContours() alone.
 - Graphical interface using Qt
-- _See more in the attached Powerpoint file (MEMS_Presentation.pptx)_
+- _See more in the attached Powerpoint file_ ![alt text](MEMS_Presentation.pptx)
 
 **Libraries**
 - Qt and OpenCV
